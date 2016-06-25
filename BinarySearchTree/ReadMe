@@ -1,0 +1,7 @@
+BST problems:
+	1. insert, delete, search bst using recurive and iterative way;
+	2. find precessor and succssor of a node
+	3. inorder tranvesal: find kth smallest, two swapped node then restore the tree
+	4. merge two Balanced BST, soretd array to bst, sorted list to bst
+	5. how many unqiue bst?
+	6. construct bst from preorder:o(n)
